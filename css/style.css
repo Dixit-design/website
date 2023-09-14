@@ -287,7 +287,7 @@
 
 
 .bg-image {
-    background-image: url(/img/home-1.jpg);
+    background-image: url(../img/home-1.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -521,7 +521,7 @@
 
 
 .bg-img-fix {
-    background-image: url(/img/home-3.jpg);
+    background-image: url(../img/home-3.jpg);
     background-size: cover;
     background-attachment: fixed;
     padding: 120px 0px;
@@ -581,7 +581,7 @@
 
 
 .bg-img-card {
-    background-image: url(/img/home-5.jpg);
+    background-image: url(../img/home-5.jpg);
     background-size: cover;
     padding: 120px 0px;
     background-repeat: no-repeat;
@@ -780,7 +780,7 @@
 
 
 .bg-title-img {
-    background-image: url(/img/Our-Company/home-2.jpg);
+    background-image: url(../img/Our-Company/home-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -849,7 +849,7 @@
 /* section 3 */
 
 .bg-counter {
-    background-image: url(/img/Our-Company/counter.jpg);
+    background-image: url(../img/Our-Company/counter.jpg);
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -960,7 +960,7 @@
 /* section 2 */
 
 .bg-img-card-2 {
-    background-image: url(/img/home-5.jpg);
+    background-image: url(../img/home-5.jpg);
     width: 100%;
     background-size: cover;
     top: 0;
@@ -1027,7 +1027,7 @@
 
 /* section 3 */
 .bg-img-pricing {
-    background-image: url(/img/home-3.jpg);
+    background-image: url(../img/home-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
