@@ -413,7 +413,7 @@
 
 
 .bg-about {
-    background-image: url(/img/home-8.jpg);
+    background-image: url(../img/home-8.jpg);
     width: 50%;
     background-size: cover;
     min-height: 570px;
